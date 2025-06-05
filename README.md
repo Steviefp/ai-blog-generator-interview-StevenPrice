@@ -29,7 +29,10 @@ cd your-repo-name
 ```bash
 pip install -r requirements.txt
 ```
-
+Ensure you make a .env file and store your api key
+```python
+GEMINI_API_KEY=
+```
 ---
 
 ## 🚀 Running the Application
